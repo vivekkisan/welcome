@@ -1,0 +1,9 @@
+n=int(input("enter number="))
+y=0
+r=0
+while(n>0):
+    r=n%10
+    y=y*10+r
+    n=int(n/10)
+print("reverse number=," y)
+ 
