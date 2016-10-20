@@ -7,3 +7,4 @@ while(n>0):
     n=int(n/10)
 print("reverse number=," y)
  
+my name is vivek supnekar
